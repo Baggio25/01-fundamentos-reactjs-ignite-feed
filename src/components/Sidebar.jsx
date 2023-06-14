@@ -17,7 +17,7 @@ export function Sidebar() {
                 />
 
                 <strong>Rodrigo Baggio</strong>
-                <span>Web Fullstack</span>
+                <span>DEV Fullstack</span>
             </div>
 
             <footer>
